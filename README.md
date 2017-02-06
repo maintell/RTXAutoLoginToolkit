@@ -1,5 +1,8 @@
 # RTXAutoLoginToolkit
 RTX Auto Login Toolkit
+
+RTX上班登录工具
+
 由于公司还在用RTX，而且HR可能依据这个查岗，可是有时候网络不好也可能会掉线，
 而RTX烂到连一个自动尝试登录的功能也没有，没办法只好利用RTX的SDK改进一下！
 于是搞一个简单的工具在上班时间登录好，并且在下班时间离线！
